@@ -1,0 +1,11 @@
+{
+  "name": "5.5.5-activity-array-automotive",
+  "version": "1.0.0",
+  "description": "- In this lesson students work on sub-classing a base vehicle class\r - to do this we need a way of importing / using code from a different file...",
+  "main": "mecurySedan.js",
+  "scripts": {
+    "start": "node vehicle.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
